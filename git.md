@@ -1,0 +1,10 @@
+init
+pull
+status
+reset
+merge
+checkout
+diff
+push
+clone
+log
